@@ -1,0 +1,42 @@
+body
+{
+    background-color: #BFEAF5;
+    text-align:center;
+    font-size: medium;
+    font-weight: normal;
+    line-height: 2;
+}
+
+
+img
+{
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.container
+{
+    padding: 15px;
+    background-color:#ECECEC;
+    width:23.5%;
+    margin:auto;
+    position: relative;
+    top: 50px;
+    border-radius: 30px;
+}
+
+
+.inner-conatiner
+{
+    width: 65%;
+    margin: auto;
+    color: #3D5656;
+}
+
+.middle-inner-container
+{
+    width: 80%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
